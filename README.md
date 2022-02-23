@@ -1,7 +1,13 @@
-# LegoJam
+# Lego Jam
 Proyecto realizado con Lego mindstorms, Rasberry Pi y BrickPi.  https://www.dexterindustries.com 
 
 Contruir un robot con Lego mindstorms , Rasberry Pi como controlador de sensores y motores LEGO
+
+Vídeo final
+
+
+### [![Alt text](https://img.youtube.com/vi/y5LTg0Buun4/0.jpg)](https://www.youtube.com/watch?v=y5LTg0Buun4)
+
 ## Restricciones:
 
 * Uso de Raspberry
